@@ -21,9 +21,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/aimbot.py
-	```
+```
+src/aimbot.py
+```
 
 ## Authors
 
